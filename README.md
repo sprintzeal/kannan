@@ -104,23 +104,49 @@ This guide will walk you through converting an old PC into a Network Attached St
 
 ## Admin Panel Access
 - Open your browser and type: `sprintzeal.local`
+- ![image](https://github.com/user-attachments/assets/bccae2b8-4c6a-4679-9d2c-830890af0ff9)
+
 
 ## Creating a User in the OMV Panel
 
 1. Click the `Users` option.
+   ![image](https://github.com/user-attachments/assets/0df44bec-2053-4ec6-90e3-d19487a2592a)
+
 2. Click the `+` option.
+   ![image](https://github.com/user-attachments/assets/6739ad0c-31ef-4650-9165-7cd62259b3e3)
+
 3. Input the username and password.
+   ![image](https://github.com/user-attachments/assets/5c83d65d-8e8a-42ec-9427-f692a37b54b4)
+
 4. Click the `Apply Changes` button after saving.
+   ![image](https://github.com/user-attachments/assets/e83a2d26-bdc2-457c-b536-8cbb34d9d6c6)
+
+   
+   
+
 
 ## Monitoring Storage Usage
 
 - Navigate to `Storage` to see the usage.
+![image](https://github.com/user-attachments/assets/8a32b441-cd83-4a07-9ba1-0a575da563fd)
+
+
 
 ## Using the Server
 
 1. Click `Network`.
+![image](https://github.com/user-attachments/assets/43e8c03f-3e47-4608-891c-dc19f3519457)
+
 2. Select the server name.
+![image](https://github.com/user-attachments/assets/ba5d4956-da4e-4b61-bc27-4d74e476d0fd)
+
 3. Enter the username and password.
+![image](https://github.com/user-attachments/assets/22c8de2a-13d8-4424-95a6-c96fa46b64b6)
+
 4. Drag and drop files and folders to transfer and store them on the server.
+![image](https://github.com/user-attachments/assets/56087680-eb4f-4dc1-8e72-d52b17f12276)
+
 
 Now everyone connected to the same router or network can access your files.
+![image](https://github.com/user-attachments/assets/47fc2e25-59d7-41e1-b90e-16872cf58e2e)
+
